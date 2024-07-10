@@ -28,7 +28,7 @@ This project requires some libraries to be installed for the correct operation o
 - **beatifulsoup** for parsing HTML tress
 - **networkx** for manipulating graphs
 - **osmnx** for obtaining graphs of places
-- **haversine** for calculating distances between cooridantes
+- **haversine** for calculating distances between coordinates
 - **staticmap** for drawing maps
 - **tabulate** for printing tables with a readable presentation of mixed textual and numeric data
 - **scikit-learn** as a requirement for the function osmnx.distance.nearest_nodes
